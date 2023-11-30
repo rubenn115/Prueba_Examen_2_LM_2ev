@@ -1,0 +1,18 @@
+/*Ruben Bernal Ramos, CSI1*/
+
+.fila1{
+	background-color: rgba(201,218,248,255);
+	font-size: 50px;
+	text-align: center;
+}
+.titulo{
+	margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+}
+.fila2{
+	background-color: rgba(0,255,255,255);
+}
+.botones{
+	background-color: rgba(255,153,0,255);
+}
